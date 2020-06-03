@@ -1,4 +1,7 @@
 # Optcom
+
+[![Join the chat at https://gitter.im/optcom-org/optcom](https://badges.gitter.im/optcom-org/optcom.svg)](https://gitter.im/optcom-org/optcom?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Optical system simulation tool.
 
 Optcom is a library which aims to simulate optical systems with an emphasis on optical communnication systems. Optcom has been created with the following objectives in mind:
